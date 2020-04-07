@@ -1,0 +1,36 @@
+.formloginemail input{
+    position: relative;
+    border-radius: 15px;
+}
+.formloginpass input{
+    position: relative;
+    top: 20px;
+    border-radius: 15px;
+}
+.formloginbtn button{
+    position: relative;
+    top: 40px;
+    background-color: #116597;
+    color: white;
+    border-radius: 15px;
+}
+.formloginbtn button:hover{
+    background-color: #15BBE3;
+    color: white;
+}
+.formloginbtn a{
+    color:  #15BBE3;
+    text-decoration: none;
+}
+.formloginbtn a:hover{
+    color:  #116597;
+    text-decoration: none;
+}
+.formloginbtn span{
+    position: relative;
+    top: 50px;
+}
+.formloginbtn p{
+    position: relative;
+    top: 50px;
+}

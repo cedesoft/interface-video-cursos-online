@@ -1,0 +1,18 @@
+.bgrecover{
+    background-image: url('../images/pexels-photo-373892.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100ph;
+    opacity: 60%;
+}
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  @media (max-width: 1200px){
+    .bgrecover{
+        min-height: 100vh;
+    }
+}

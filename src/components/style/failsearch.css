@@ -1,0 +1,38 @@
+
+
+.fail{
+    
+    position: absolute;
+    width: 906px;
+    height: 34px;
+    left: 110px;
+    top: 212px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+
+.fail2{
+    position: absolute;
+width: 660px;
+height: 72px;
+left: 305px;
+top: 294px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}

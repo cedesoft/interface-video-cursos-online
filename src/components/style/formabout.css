@@ -1,0 +1,52 @@
+.cardnew{
+    width: 1100px;
+    height: 450px;
+    background: #FAF8F8;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+.formnew{
+    background: #116597;
+    border-radius: 15px;
+}
+.formnew h3{
+    padding-left: 20px;
+    text-align: left;
+    color: white;
+}
+.formname input{
+    width: 400px;
+}
+.formlastname input{
+    position: absolute;
+    top: 120px;
+    width: 400px;
+}
+.formnickname input{
+    position: absolute;
+    top: 200px;
+    width: 400px;
+}
+.formabout textarea{
+    position: absolute;
+    top:40px;
+    left: 500px;
+    width: 600px;
+    height: 150px;
+    max-width: 600px;
+    max-height: 150px;
+    min-width: 600px;
+    min-height: 150px;
+}
+.formbutton button{
+    position: absolute;
+    top: 300px;
+    left: 450px;
+    background-color: #116597;
+    color: white;
+    border-radius: 15px;
+}
+.formbutton button:hover{
+    background-color: #15BBE3;
+    color: white;
+}

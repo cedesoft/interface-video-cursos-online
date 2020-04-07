@@ -1,0 +1,216 @@
+.resultado{
+    position: absolute;
+    width: 330px;
+    height: 334px;
+    left: 840px;
+    top: 200px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.125);
+    border-radius: 3px;
+    }
+    
+    .titleResultado{
+      position: relative;
+        width: 278px;
+        height: 25px;
+        left: 15px;
+        top: 10px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        /* identical to box height */
+        display: flex;
+        align-items: center;
+        color: #333333;
+    
+    }
+    
+    .line{
+    width: 278px;
+    height: 0px;
+    left: 866px;
+    border: 0.25px solid rgba(0, 0, 0, 0.5);
+    }
+    
+    .line2{
+    
+        width: 278px;
+        height: 0px;
+        left: 866px;
+        top: px;
+        
+        border: 0.25px solid rgba(0, 0, 0, 0.5);
+        }
+        
+    
+    .button{
+        width: 278px;
+        height: 50px;
+        left: 866px;
+        top: 459px;
+        
+        background: #15BBE3;
+        border-radius: 50px;
+    }
+    
+    .numCurso{
+        position: relative;
+        width: 150px;
+        height: 20px;
+        left: 80px;
+        top:10px;
+        font-family: Montserrat;
+        font-size: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #333333;
+    }
+    
+    .cursoComprado1{ 
+    position: relative;
+    width: 300px;
+    height: 35px;
+    left: 10px;
+    top: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    color: #4D4D4D;
+    }
+    
+    .precio1{
+    position: relative;
+    width: 150px;
+    height: 35px;
+    left: 25px;
+    top: 1px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #4D4D4D;
+    }
+    
+    .cursoComprado2{ 
+        position: relative;
+        width: 300px;
+        height: 17px;
+        left: 10px;
+        top: 10px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 15px;
+        display: flex;
+        align-items: center;
+        color: #4D4D4D;
+     }
+    
+        .precio2{
+            position: relative;
+            width: 150px;
+            height: 12px;
+            left: 15px;
+            top: 1px;
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 12px;
+            line-height: 15px;
+            display: flex;
+            align-items: center;
+            text-align: right;
+            color: #4D4D4D;
+        }
+    
+        .total{
+            position: relative;
+            width: 86px;
+            height: 65px;
+            left: 50px;
+            top:10px;
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 300;
+            font-size: 20px;
+            line-height: 24px;
+    
+            /* identical to box height */
+            display: flex;
+            align-items: center;
+            text-align: right;
+    
+            color: #4D4D4D;
+    
+        }
+    
+        .precioTotal{ 
+      
+        width: 100%;
+        height: 100px;
+        left: 80px;
+        top: 1px;
+    
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        
+        /*align-items: center;*/
+        /*text-align: right;*/
+        color: #15BBE3;
+        }
+    
+        .seguirComprando{
+        position: absolute;
+        width: 330px;
+        height: 12px;
+        left: 840px;
+        top: 554px;
+    
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    
+        color: #15BBE3;
+        }
+        
+        .btnpedido{
+        width: 278px;
+        height: 50px;
+        left: 866px;
+        top:10px;
+        background: #15BBE3;
+        border-radius: 50px;
+        width: 278px;
+        height: 50px;
+        left: 866px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    
+        color: #FFFFFF;
+        }

@@ -1,0 +1,16 @@
+.text_new{
+    position: relative;
+    color: #116597;
+}
+.formchangebtn button{
+    background-color:#116597;
+    color: white;
+    border-radius: 15px;
+}
+.formchangebtn button:hover{
+    background-color:#15BBE3;
+    color: white;
+}
+.text_new{
+    margin: 50px;
+}

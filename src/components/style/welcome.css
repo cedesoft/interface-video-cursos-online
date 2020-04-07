@@ -1,0 +1,16 @@
+
+.card-new {
+    position: absolute;
+    left: 100px;
+    right: 100px;
+    top: 950px;
+}
+
+.form1 {
+position: absolute;
+width: 1280px;
+height: 250px;
+left: 0px;
+top: 767px;
+background: #F4F8F9;
+}
